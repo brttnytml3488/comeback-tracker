@@ -1,0 +1,85 @@
+{
+  "start": 244.3,
+  "goal": 132,
+  "treats": [
+    "book haul",
+    "A good book",
+    "AirPods",
+    "Fresh sneakers",
+    "Apple Watch",
+    "Nice dinner out",
+    "New outfit",
+    "quality headphones",
+    "hair extensions",
+    "jewelry piece",
+    "piercing jewelry upgrade",
+    "iPad",
+    "Apple Watch",
+    "hair extensions"
+  ],
+  "exps": [
+    "write a letter to your future self",
+    "take + frame a progress photo",
+    "make a \"comeback\" playlist",
+    "solo reflection hike",
+    "no-phone evening, childhood favorite",
+    "cook a celebration meal at home",
+    "journal the milestone story",
+    "sunrise/sunset somewhere quiet",
+    "vision board for the next stretch",
+    "write 5 things your body did for you",
+    "buy an outfit just because you like it",
+    "walk 10 km without stopping",
+    "hike a trail you used to avoid",
+    "professional photoshoot"
+  ],
+  "claimed": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "weights": [
+    {
+      "d": "2026-06-09",
+      "v": 244
+    }
+  ],
+  "habits": {
+    "2026-06-09": {
+      "water": 0,
+      "workout": false,
+      "food": false,
+      "sleep": false
+    }
+  },
+  "lastHabitDay": "2026-06-09",
+  "rewards": [
+    "New workout top",
+    "A good book",
+    "Movie night out",
+    "Fresh sneakers",
+    "Massage",
+    "Nice dinner out",
+    "New outfit",
+    "Concert / event ticket",
+    "Spa day",
+    "Weekend getaway"
+  ],
+  "streaks": {
+    "water": 0,
+    "workout": 0,
+    "food": 0,
+    "sleep": 0
+  }
+}
